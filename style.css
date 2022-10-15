@@ -1,0 +1,56 @@
+
+body{
+    background-color: aliceblue;
+    font-family: cursive;
+    
+}
+
+/* .description {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #eee;
+	padding: 20px;
+	border-radius: 10px;
+} */
+
+#content{
+	   margin-left: 17%;
+	   position: relative;
+	   bottom: 180px;
+	   line-height: 30px;
+}
+
+#sign-up {
+	display: none;
+}
+
+#sign-up-form {
+	width: 700px;
+	margin: auto;
+}
+
+.form-title {
+	font-size: 2.5em;
+}
+
+#mail{
+	width: 300px;
+	height: 20px;
+}
+
+#pass{
+	width: 300px;
+	height: 20px;
+}
+
+#sign-in{
+	width: 700px;
+	margin: auto;
+	display: none;
+}
+
+.box{
+	margin-left: 30%;
+	margin-top: 10%;
+}
